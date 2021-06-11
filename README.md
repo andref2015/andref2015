@@ -1,6 +1,6 @@
 👋 Hi, I’m André
-👀 I’m interested in smart contract programming
-🌱 I’m currently learning JavaScript
+👀 Interested in smart contract programming
+🌱 Currently learning JavaScript & Apps Script
 📫 Email me at andref2015@gmail.com
 
 <!---
