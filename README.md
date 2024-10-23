@@ -1,5 +1,5 @@
 👋 Hi, I’m André
-📫 Email me at andref2015@gmail.com
+📫 Email me at andref2015 at gmail dot com
 
 <!---
 andref2015/andref2015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
